@@ -17,9 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, welcome to my Page! I'm Joris, Computer Science Student based in Berlin. I am interested in Programming, Math and everything that's related to that. In this page you can find Blogposts, Project introductions and a more detailed CV.
+Hey, welcome to my Page! I'm Joris, Computer Science Student based in Berlin. I am interested in Programming, Math and everything that's related to that. In this page you can find Blogposts, academic publications, Project introductions and a more detailed CV.
 
-I'am interested in Cloud Engineering and Cloud Technologies. I could already gain professional Experience int the Microsoft Azure Cloud. I have joined the Google Developer Student Club to deepen my Knowledge using the Google Cloud Platform. Right now I am working towards my first academic publication and first big Open Source Contribution regarding the ProM-Platform. Stay tuned and happy Browsing.
+I like doing Sports in my freetime, going to museums or walking through parks. In summertime you may find me on basketball courts all around Berlin. 
+
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
